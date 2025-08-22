@@ -57,7 +57,7 @@ It includes fake installers, guides, and UI mockups that look like real activato
 
 
 **1. Windows Activation Log**  
-![Activation Log](https://www.kmspico.lc/wp-content/uploads/2025/05/windows-office-license-backup-interface-1024x770.webp)  
+![Activation Log](https://www.kmspico.lc/wp-content/uploads/2025/05/kmspico-activate-windows-office-main-button-1024x770.webp)  
 *Console output showing fake activation progress*
 
 **3. Office Activation Screen**  
