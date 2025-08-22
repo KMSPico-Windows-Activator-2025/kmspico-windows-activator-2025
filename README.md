@@ -57,12 +57,10 @@ It includes fake installers, guides, and UI mockups that look like real activato
 
 
 **1. Windows Activation Log**  
-![Activation Log](https://www.kmspico.lc/wp-content/uploads/2025/05/kmspico-activate-windows-office-main-button-1024x770.webp)  
+![Activation Log](https://repository-images.githubusercontent.com/866521763/eb58fc35-5429-4b20-b5ad-5ff9b5b89fcb)  
 *Console output showing fake activation progress*
 
-**3. Office Activation Screen**  
-![Office Fake Activation](https://www.drsdesigns.com/KMSPico_2025.webp)  
-*Mockup activation success message*
+
 
 ---
 
